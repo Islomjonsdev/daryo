@@ -1,0 +1,33 @@
+.hero__bottom__list {
+    display: flex;
+    align-items: baseline;
+    gap: 20px;
+}
+
+.hero__bottom__item {
+    max-width: 138px;
+    width: 100%;
+}
+
+.hero__bottom__link {
+    text-decoration: none;
+}
+
+.hero__bottom__img {
+    width: 138px;
+    height: 82px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.hero__bottom__text {
+    font-size: 14px;
+    color: #161616;
+    font-weight: 700;
+    line-height: 1.36;
+    transition: 0.3s ease;
+}
+
+.hero__bottom__text:hover {
+    color: #0693e3;
+}

@@ -1,0 +1,40 @@
+.footer {
+    background-color: #0f0f0f;
+    padding: 60px 35px 50px;
+}
+
+.footer__container {
+
+}
+
+.footer__logo {
+    width: 182px;
+    height: 48px;
+    margin-bottom: 20px;
+}
+
+.footer__text {
+    font-size: 14px;
+    color: #c0c0c0;
+    line-height: 1.714;
+    margin-bottom: 30px;
+}
+
+.footer__list {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.footer__item {
+    background-color: grey;
+    display: flex;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.footer__icon {
+    width: 20px;
+    height: 20px;
+    color: #fff;
+}
